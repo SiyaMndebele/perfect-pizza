@@ -2,14 +2,16 @@ body {
     background-color: #76C893;
 }
 
-
+.main_heading {
+    text-align: center;
+}
 .pizza {
     border: 1px solid #577590;
     padding: 1em;
     margin: 1em;
     margin-bottom: 0.5em;
     border-radius: 0.5em;
-    
+    width: 30%;
 }
 
 .medium_pizza {
@@ -31,15 +33,15 @@ body {
 
 }
 
+
 .contact_us {
     background-color: #577590;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+    width: 95%;
 }
 
-.special {
-    background-color: saddlebrown;
-    color: azure;
+.contacts {
+    text-align: center;
 }
 
 @media (min-width: 960px) {
