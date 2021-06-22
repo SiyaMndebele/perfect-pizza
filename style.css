@@ -3,14 +3,16 @@ body {
 }
 
 .main_heading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
     text-align: center;
+    font-size: 300%;
 }
 .pizza {
     border: 1px solid #577590;
     padding: 1em;
     margin: 1em;
     margin-bottom: 0.5em;
-    border-radius: 0.5em;
+    border-radius: 1em;
     width: 30%;
 }
 
@@ -29,7 +31,7 @@ body {
 .small_pizza {
     background-color: #F9C74F;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+    
 
 }
 
@@ -41,6 +43,10 @@ body {
 }
 
 .contacts {
+    text-align: center;
+    font-size: 175%;
+}
+.c_details {
     text-align: center;
 }
 
